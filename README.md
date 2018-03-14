@@ -17,6 +17,8 @@ Perhaps:
 
 ## 01 Fade
 
+[Fade Example](http://www.gregcerveny.com/PrettyLumens/01-Fade/)
+
 Money is more than a store of value.  There is often an interaction attached to a transaction as well as a visual response. When a trnasaction is complete, after time, it fades from the active memory of each participant.
 
 Here, small circles are fading away as lumens trade hands on the Stellar network. Big circles for big amounts, small circles for small amounts.
@@ -24,6 +26,8 @@ Here, small circles are fading away as lumens trade hands on the Stellar network
 This is currently setup to watch all tansactions happening on Horizon. It could easily modified to watch a single address as in the Orbit example.
 
 ## 02 Orbit
+
+[Orbit Example](http://www.gregcerveny.com/PrettyLumens/02-Orbit/)
 
 When we drop money into tip jars and wishing wells they have long lasting visual effects. Rather than an ephemeral flash of a transaction, a collection slowly builds.
 
