@@ -4,6 +4,8 @@ Pretty Lumens is a creative way to visualize transcation streams on the Stellar 
 
 Pretty Lumens started as a creative coding experiment, asking, what is the digital equivalent of a tip jar?  It uses p5.js and the stellar SDK. Inspired by Daniel Shifman's [The Nature of Code](http://natureofcode.com). 
 
+## Inspiration
+
 We have many ways we see currency physically moving in the world. We see tip jars in coffee shops and musicians open cases as they busk on the street. We also have public installations like water fountains where coins, whether intended or not, end up collecting. There’s certainly some connection here beyond the simple transfer of money.
 
 Where might we find something like this?
